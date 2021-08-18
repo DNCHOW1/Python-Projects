@@ -5,4 +5,4 @@ Trickiest part of this project for me was learning how to format the strings so 
 Another tricky part was the regex, which took a couple of videos and reading to figure out the necessary combination of characters.
 
 
-I think this project should be revisited sometime in the future. From reading the todo file, it's clear to me that there were a lot of ideas I couldn't implement at the time. However, now, with my expertise in all of the mentioned modules, I can definitely put this idea to better use.
+I think this project should be revisited sometime in the future. From reading the todo file, it's clear to me that there were a lot of ideas I couldn't implement at the time. However, now, with my expertise in all of the mentioned modules, I can definitely put this idea to better use. Moreover, it's something that would be useful with my uni classes in the future.
