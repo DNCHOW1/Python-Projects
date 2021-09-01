@@ -8,7 +8,7 @@ In addition, once the data is scraped, the info would be sent to my phone throug
 
 
 ## Results
-By the end of my TWILIO free trial, I had sent about 600 messages in the span of ~2 years. Below, you can see some opportunities out of the 275 ones scraped between Aug. 11, 2017 and Jul. 9, 2019.
+By the end of my TWILIO free trial, I had sent about 600 messages in the span of ~2 years. Below, you can see some opportunities out of the 275 ones scraped between Aug. 6, 2017 and Jul. 9, 2019.
 
 ![Scrape_Logs](https://user-images.githubusercontent.com/70815649/131605496-334d6fd9-d52f-4874-a2c8-0dc601f9cda6.JPG)
 ![image](https://user-images.githubusercontent.com/70815649/131607405-29487286-ecce-4d72-aa4a-88e05bf8b6ba.png)
